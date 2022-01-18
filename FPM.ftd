@@ -1,0 +1,4 @@
+-- import: fpm
+
+-- fpm.package: jay-kumar0.github.com/3rd-try
+zip: github.com/jay-kumar0/3rd-try/archive/refs/heads/main.zip

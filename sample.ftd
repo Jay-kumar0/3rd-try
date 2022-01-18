@@ -1,3 +1,9 @@
 -- import: index as idx
+-- import: design as d
+
+-- ftd.column:
+padding: 40
 
 -- idx.jay-text: Jay text is awesome! 🥳🥳
+
+-- d.jay-design: Jay design has cursive font ✌️

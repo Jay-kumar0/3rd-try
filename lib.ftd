@@ -1,0 +1,78 @@
+-- ftd.column index-card:
+width: 400
+
+--- ftd.image:
+src: index image 1.png
+width: 400
+
+--- ftd.column:
+width: fill
+background-color: #30556A
+padding: 30
+id: details
+spacing: 15
+
+
+--- ftd.row:
+width: fill
+id: head
+
+
+--- ftd.image:
+src: small logo.png
+width: 40
+
+--- container: head
+
+--- ftd.column:
+
+
+
+--- ftd.text: Samar
+padding-left: 20
+color: white
+style: light
+
+--- ftd.row:
+
+--- ftd.text: Jan 1st 2022
+padding-left: 20
+color: white
+style: light
+size: 12
+padding-top: 8
+
+
+--- ftd.text: I
+padding-left: 20
+color: grey
+style: light
+size: 12
+padding-top: 8
+
+--- ftd.text: 2 min read
+padding-left: 20
+color: white
+style: light
+size: 12
+padding-top: 8
+
+
+
+--- container: details
+
+--- ftd.column:
+
+--- ftd.text: 
+color: white
+style: bold
+
+
+Responding to the COVID-19 Crisis: Unspoken Smiles conects career role models t...
+
+--- ftd.text: 
+size: 15
+color: white
+style: light
+
+During the last year, we have been piloting the unspoken smiles after-school program with a small group of students at Ember charter...

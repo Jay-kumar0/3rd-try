@@ -1,5 +1,156 @@
--- ftd.text: Hi I am jay!
+-- import: lib
 
--- ftd.text jay-text: $text
-caption text:
-color: red
+
+
+
+
+-- ftd.column:
+width: fill
+background-color: #41ACA6
+id: outer
+
+-- ftd.row:
+width: fill
+padding-left: 200
+padding-right: 200
+padding-top: 40
+padding-bottom: 40
+id: top-nav
+
+-- ftd.image:
+src: big logo.png
+width: 120
+
+
+-- container: top-nav
+
+-- ftd.row:
+width: 1200
+align: right
+spacing: 30
+padding-left: 620
+
+
+-- ftd.text: Follow us on
+size: 15
+color: #4B6878
+
+-- ftd.image: 
+src: tweeter.png
+width: 20
+
+-- ftd.image: 
+src: facebook.png
+width: 10
+
+
+-- ftd.image: 
+src: linkedin.png
+width: 20
+
+
+-- ftd.image: 
+src: instagram.png
+width: 20
+
+
+-- ftd.image: 
+src: reddit.png
+width: 20
+
+-- container: outer
+
+-- ftd.row:
+width: fill
+border-top: 1
+border-color: #244354
+
+-- container: outer
+
+-- ftd.row:
+width: fill
+padding-top: 30
+padding-left: 200
+padding-bottom: 30
+id: author
+
+
+-- ftd.image: 
+src: author image.png
+width: 270
+padding-right: 30
+
+-- container: author
+
+-- ftd.column:
+width: fill
+
+
+-- ftd.text: Samara
+style: bold
+size: 55
+color: white
+
+
+-- ftd.text:
+color: white
+style: light
+padding-right: 200
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+
+-- container: outer
+
+-- ftd.column:
+width: fill
+background-color: #E6EEF2
+padding: 60
+
+-- ftd.image:
+src: scroll down icon.png
+width: 40
+align: center
+
+-- ftd.text: Scroll down
+style: light
+color: #244354
+align: center
+padding-top: 11
+
+
+-- container: outer
+
+-- ftd.column:
+width: fill
+background-color: #E6EEF2
+
+-- ftd.row:
+width: fill
+padding-left: 200
+padding-right: 200
+padding-top: 40
+padding-bottom: 40
+spacing: 50
+
+-- lib.index-card:
+
+-- lib.index-card:
+
+
+-- container: outer
+
+-- ftd.column:
+width: fill
+background-color: #E6EEF2
+
+-- ftd.row:
+width: fill
+padding-left: 200
+padding-right: 200
+padding-top: 40
+padding-bottom: 40
+spacing: 50
+
+-- lib.index-card:
+
+-- lib.index-card:

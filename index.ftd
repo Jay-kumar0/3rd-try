@@ -1,1 +1,5 @@
 -- ftd.text: Hi I am jay!
+
+-- ftd.text jay-text: $text
+caption text:
+color: red
